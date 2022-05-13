@@ -17,6 +17,6 @@ function palindromeCheck(word) {
         }
     }
     if (flag===0){
-        return `La parola ${word} è palindroma`
-    } return `La parola ${word} non è palindroma`
+        return `La parola ${word} è palindroma`;
+    } return `La parola ${word} non è palindroma`;
 }
